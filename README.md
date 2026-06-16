@@ -7,6 +7,3 @@
 </picture>
 
 ---
-
-### 📈 Live GitHub Activity
-<!-- Dynamic stats widgets will go here later -->
