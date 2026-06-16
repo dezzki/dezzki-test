@@ -1,4 +1,4 @@
-# Hi there, I'm Dezzki! 👋
+# Hi there, I'm Dezzki ! 👋
 
 ### 🚀 Student | Explorer | Developer
 
